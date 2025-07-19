@@ -24,6 +24,10 @@ mood-mirror/
 └── script.js        # Mood selection logic and dynamic updates
 ```
 
+##Preview
+
+<img width="668" height="730" alt="image" src="https://github.com/user-attachments/assets/0f04670c-7c57-4e95-867b-0b93fa871efd" />
+
 ---
 
 ## 🛠️ Tech Stack
@@ -86,3 +90,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Made with ❤️ by K.Venu Sree Reddy  
 
+https://github.com/VenuSreeReddy
